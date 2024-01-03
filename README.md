@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm hung</h1>
-<h3 align="center">Aiming to be king of cloud</h3>
+<h3 align="center">Shooting stars! Aim for the moon! King of cloud  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hungnm12&label=Profile%20views&color=0e75b6&style=flat" alt="hungnm12" /> </p>
 <img align="right" width="400" src="https://i.gifer.com/cm7.gif"> 
