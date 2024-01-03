@@ -5,7 +5,7 @@
 <img align="right" width="400" src="https://i.gifer.com/cm7.gif"> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hungnm12" alt="hungnm12" /></a> </p>
 
-- 🔭 I’m currently working on **Predictive model for cloud DNS service**
+- 🔭 I’m currently working on **Predictive model for DevOps performance in cloud DNS service**
 
 - 🌱 I’m currently learning **everything**
 
